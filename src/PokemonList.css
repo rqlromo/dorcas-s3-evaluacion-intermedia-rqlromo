@@ -1,4 +1,8 @@
-.Wrapper{
+/* .Wrapper{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+} */
+
+.item-list{
+    display: flex;
 }
